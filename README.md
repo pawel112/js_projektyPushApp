@@ -1,4 +1,5 @@
 # projektyPushApp
-Aplikacja powstała w 2018 roku na potrzeby projektu, aby umożliwić wysyłanie powiadomień z usługi chatu (zmodyfikowana aplikacja Let's Chat) oraz usługi kopii zapasowej. Aplikacja umożliwia ustawienie, jakie użytkownik chce otrzymywać powiadomienia po podaniu danych logowania.
+The application was created in 2018 for the project to allow sending notifications from the chat service (modified Let's Chat application) and backup service. The application allows you to set which users want to receive notifications after entering their login details.
 
-Aplikacja wykorzystuje m.in.: Ionic, Cordova, Node.js, OneSignal.
+The application uses: Ionic, Cordova, Node.js, OneSignal. 
+
